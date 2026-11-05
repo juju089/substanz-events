@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#e5ff55"><meta name="description" content="Dein Abend in der Substanz München. Termine finden, filtern und im Kalender abonnieren.">
+  <link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./icons/icon-192.png"><link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="./style.css"><script src="./calendar.js" defer></script><script src="./app.js" defer></script>
+  <title>Substanz · Dein nächster Abend</title>
+</head>
+<body>
+<header><a class="wordmark" href="./" aria-label="Substanz Startseite">SUBSTANZ<span>MÜNCHEN / TERMINE</span></a><a class="official" href="https://substanz-club.com/alle-events" target="_blank" rel="noopener">Offizielle Seite ↗</a></header>
+<main>
+  <section class="hero"><div class="eyebrow">RUPPERTSTRASSE 28 · SEIT 1990</div><h1>Gute Abende.<br><span>Mit Substanz.</span></h1><p>Quiz im Kopf. Musik im Bauch. Finde deinen nächsten Abend.</p><a class="button primary" href="#kalender">Kalender abonnieren <span>↗</span></a><div class="orbit" aria-hidden="true">S<span>LIVE & LOUD<br>MÜNCHEN</span></div></section>
+  <section class="programme" aria-labelledby="program-title">
+    <div class="section-head"><h2 id="program-title">Was geht?</h2><button id="refresh" type="button">Aktualisieren ↻</button></div>
+    <p id="status" class="status" role="status">Veranstaltungen werden geladen …</p>
+    <div class="filters"><label class="search">Suche<input id="query" type="search" placeholder="Künstler, Quiz, Lieblingsabend …"></label><label>Zeitraum<select id="range"><option value="all">Alle kommenden</option><option value="today">Heute</option><option value="week">Nächste 7 Tage</option><option value="month">Nächste 30 Tage</option><option value="past">Vergangene</option></select></label></div>
+    <div id="categories" class="chips" role="group" aria-label="Veranstaltungsart"></div>
+    <div class="result-line"><span id="count" aria-live="polite"></span><button id="reset" type="button">Filter zurücksetzen</button></div>
+    <div id="events" aria-live="polite"></div>
+    <noscript>Bitte JavaScript aktivieren. Den Kalender kannst du auch direkt als <a href="./events.ics">ICS herunterladen</a>.</noscript>
+  </section>
+  <section id="kalender" class="calendar"><div class="eyebrow">DEIN KALENDER. UNSERE ABENDE.</div><h2>Einmal abonnieren.<br>Immer was vor.</h2><p>Neue Termine kommen automatisch in deinen Kalender. Wie oft aktualisiert wird, entscheidet deine Kalender-App.</p><div class="actions"><a id="subscribe" class="button primary" href="webcal://juju089.github.io/substanz-events/events.ics">Kalender abonnieren ↗</a><a class="button secondary" href="./events.ics" download="substanz.ics">ICS herunterladen ↓</a></div><label class="feed-label">Abo-Adresse (HTTPS)<input id="feed" readonly aria-label="Kalender-Abo-Adresse"></label><button id="copy" type="button">Adresse kopieren</button><p id="copy-status" role="status"></p><details><summary>So klappt’s auf iPhone, Android und PC</summary><p>iPhone: „Kalender abonnieren“ öffnen und das Abo bestätigen. Falls nötig: Kalender-App → Kalender → Hinzufügen → Kalenderabonnement hinzufügen; die HTTPS-Adresse einsetzen. Android / Google Kalender: Am PC Google Kalender öffnen → Weitere Kalender + → Per URL → HTTPS-Adresse einfügen. Outlook: Kalender hinzufügen → Aus dem Internet abonnieren. Ein ICS-Download importiert nur den aktuellen Stand und ist kein Abo.</p></details></section>
+  <section class="install"><h2>Dein Shortcut zum Abend.</h2><p>iPhone: In Safari öffnen → Teilen → Zum Home-Bildschirm. Android: Im Browser-Menü „App installieren“ oder „Zum Startbildschirm“. Nach dem ersten Online-Aufruf sind die zuletzt geladenen Termine auch offline verfügbar.</p><button id="install" hidden class="button secondary" type="button">App installieren</button></section>
+</main>
+<footer><strong>SUBSTANZ / MÜNCHEN</strong><p>Unabhängige Veranstaltungsübersicht, keine offizielle App. Angaben ohne Gewähr. Zeiten, Änderungen und Tickets bitte beim Veranstalter prüfen.</p><a href="https://substanz-club.com/alle-events">Quelle: Substanz</a> · <a href="https://substanz-club.com/impressum">Veranstalter / Impressum</a><p>Keine Werbung, kein Tracking. Nur dein nächster Abend.</p></footer>
+</body></html>
