@@ -1,18 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-05T12:24:13Z",
+  "updatedAt": "2026-11-06T06:06:01Z",
   "events": [
-    {
-      "id": "bdc04aa962013affddf2203f@substanz-events",
-      "date": "2026-11-04",
-      "title": "SUBSTANZIELLES FRITZ KOLA BINGO",
-      "description": "Schnapszahlen, eine nostalgische Bingomaschine und ganz viel Glück Host: Pegah",
-      "start": "20:00",
-      "doors": "18:30",
-      "category": "Bingo",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-04",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "cd8607b27460823c54879a53@substanz-events",
       "date": "2026-11-05",
