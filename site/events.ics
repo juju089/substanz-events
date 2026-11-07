@@ -6,23 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Substanz München
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:cd8607b27460823c54879a53@substanz-events
-DTSTAMP:20261106T060601Z
-DTSTART:20261105T200000Z
-SUMMARY:KARAOKE PARTY
-DESCRIPTION:Host Elizaveta stimmt ein und dann gehört die Bühne euch! Und
-  davor gibt es als Warmup unsere Happy Hour „Spritz before Hits“\nBegi
- nn: 21:00\nEinlass: 18:30\nOffizielle Quelle: https://substanz-club.com/al
- le-events\nTickets / Reservierung: https://app.resmio.com/substanz/widget?
- fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled
- =false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%23
- 07a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-05
-LOCATION:Substanz\, Ruppertstraße 28\, 80337 München
-URL:https://substanz-club.com/alle-events
-END:VEVENT
-BEGIN:VEVENT
 UID:29efeb58e81d5a1b7c3e994f@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261106T173000Z
 SUMMARY:SEASIDE (Einlass\; Beginn offen)
 DESCRIPTION:Der substanzielle Indie-Freitag DJ Phillinger\nBeginn nicht ang
@@ -37,7 +22,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:23d6656cbf8c9d6f6044c1e3@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261107T173000Z
 SUMMARY:MOVE ON UP (Einlass\; Beginn offen)
 DESCRIPTION:Das Beste an Funk & Soul DJ Don Schmocko\nBeginn nicht angegebe
@@ -52,7 +37,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2069fe8aeee2c02b2346176b@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261108T180000Z
 SUMMARY:ARTUR CHAPARYAN (Артур Чапарян)
 DESCRIPTION:„ прошлогоднее и новое “ – Tour Stand U
@@ -63,22 +48,22 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2dd440f6eb1f05133227c203@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261110T183000Z
 SUMMARY:MUNICH MUSIC QUIZ
-DESCRIPTION:Happy quizzing! Fortnightly music quiz hosted in German and Eng
- lish. Guess songs\, get drinks\, have fun!\nBeginn: 19:30\nEinlass: 18:30\
- nOffizielle Quelle: https://substanz-club.com/alle-events\nTickets / Reser
- vierung: https://app.resmio.com/substanz/widget?fullscreen=true&background
- Color=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&
- fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=tr
- ue&width=400&nextAvailability=2026-11-10
+DESCRIPTION:Happy quizzing! Weekly music quiz hosted in German and English.
+  Guess songs\, get drinks\, have fun!\nBeginn: 19:30\nEinlass: 18:30\nOffi
+ zielle Quelle: https://substanz-club.com/alle-events\nTickets / Reservieru
+ ng: https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor
+ =%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontS
+ ize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&wi
+ dth=400&nextAvailability=2026-11-10
 LOCATION:Substanz\, Ruppertstraße 28\, 80337 München
 URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4a1a5b78c96ddcd3925a44@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261111T190000Z
 SUMMARY:SUBSTANZIELLES PUB-QUIZ
 DESCRIPTION:4 Runden\, 40 Fragen und heiße Preise zu gewinnen! Host: Natan
@@ -96,7 +81,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:8a6b9935f4609bcb2b8574d9@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261112T200000Z
 SUMMARY:KARAOKE PARTY
 DESCRIPTION:Host Elizaveta stimmt ein und dann gehört die Bühne euch! Und
@@ -111,7 +96,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:819ff3de66de98d17bcf920d@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261113T173000Z
 SUMMARY:FOOLS GOLD (Einlass\; Beginn offen)
 DESCRIPTION:Der substanzielle Indie-Freitag mit DJ Sir Hannes\nBeginn nicht
@@ -126,7 +111,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:aaa52cf60bcad6f5bd6f4622@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261114T173000Z
 SUMMARY:90S DAMPFER (Einlass\; Beginn offen)
 DESCRIPTION:Die besten Party-Hymnen der 90er mit DJ Max Wild\nBeginn nicht 
@@ -141,7 +126,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:104286a39729340855f1098d@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261115T190000Z
 SUMMARY:ALPENFILM FESTIVAL
 DESCRIPTION:Die besten Bergfilme des Jahres\, darunter auch der preisgekrö
@@ -160,7 +145,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:fc1f2a90ec144c4893b1d855@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261116T190000Z
 SUMMARY:KUUPA & WIDERGROLLEN
 DESCRIPTION:Geschichten zum Tanzen 1 Konzert\, 2 Acts: Kuupa & The Gang und
@@ -178,22 +163,22 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:ae6f0244e2d99d729d0b87ad@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261117T183000Z
 SUMMARY:MUNICH MUSIC QUIZ
-DESCRIPTION:Happy quizzing! Fortnightly music quiz hosted in German and Eng
- lish. Guess songs\, get drinks\, have fun!\nBeginn: 19:30\nEinlass: 18:30\
- nOffizielle Quelle: https://substanz-club.com/alle-events\nTickets / Reser
- vierung: https://app.resmio.com/substanz/widget?fullscreen=true&background
- Color=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&
- fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=tr
- ue&width=400&nextAvailability=2026-11-17
+DESCRIPTION:Happy quizzing! Weekly music quiz hosted in German and English.
+  Guess songs\, get drinks\, have fun!\nBeginn: 19:30\nEinlass: 18:30\nOffi
+ zielle Quelle: https://substanz-club.com/alle-events\nTickets / Reservieru
+ ng: https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor
+ =%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontS
+ ize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&wi
+ dth=400&nextAvailability=2026-11-17
 LOCATION:Substanz\, Ruppertstraße 28\, 80337 München
 URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:a53e557823444d14d6467931@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261118T190000Z
 SUMMARY:SUBSTANZIELLES FRITZ KOLA BINGO
 DESCRIPTION:Schnapszahlen\, eine nostalgische Bingomaschine und ganz viel G
@@ -208,7 +193,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:52bd813d6d27cc2c17f503de@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261120T173000Z
 SUMMARY:JUST LIKE HEAVEN (Einlass\; Beginn offen)
 DESCRIPTION:Indie-Pop through the Decades! Classics\, Kennerkram & New Hot 
@@ -223,7 +208,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:3cc349c6de8dc1b4f2231185@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261121T173000Z
 SUMMARY:99 BASS BALLONS (Einlass\; Beginn offen)
 DESCRIPTION:Funk & Hip Hop auf Vinyl Mit DJ Don Schmocko\nBeginn nicht ange
@@ -238,7 +223,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:a6333e53343141e7162c6888@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261123T183000Z
 SUMMARY:NOVA ROCK PUB QUIZ
 DESCRIPTION:Das Nova Rock Festival geht auf Pubquiz-Tour & es gibt tolle Pr
@@ -253,22 +238,22 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:aabe34e441b335c4eb3b9547@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261124T183000Z
 SUMMARY:MUNICH MUSIC QUIZ
-DESCRIPTION:Happy quizzing! Fortnightly music quiz hosted in German and Eng
- lish. Guess songs\, get drinks\, have fun!\nBeginn: 19:30\nEinlass: 18:30\
- nOffizielle Quelle: https://substanz-club.com/alle-events\nTickets / Reser
- vierung: https://app.resmio.com/substanz/widget?fullscreen=true&background
- Color=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&
- fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=tr
- ue&width=400&nextAvailability=2026-11-24
+DESCRIPTION:Happy quizzing! Weekly music quiz hosted in German and English.
+  Guess songs\, get drinks\, have fun!\nBeginn: 19:30\nEinlass: 18:30\nOffi
+ zielle Quelle: https://substanz-club.com/alle-events\nTickets / Reservieru
+ ng: https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor
+ =%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontS
+ ize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&wi
+ dth=400&nextAvailability=2026-11-24
 LOCATION:Substanz\, Ruppertstraße 28\, 80337 München
 URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:b572b47cf56749efda272fdf@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261126T190000Z
 SUMMARY:SEDLMEIR
 DESCRIPTION:Konzert\nBeginn: 20:00\nEinlass: 18:30\nOffizielle Quelle: http
@@ -285,7 +270,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:80b8bb65da624eaaeb4c5be0@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261127T173000Z
 SUMMARY:GIMME INDIEROCK (Einlass\; Beginn offen)
 DESCRIPTION:Der substanzielle Indie-Freitag mit Bavarian Mobile Disco\nBegi
@@ -300,7 +285,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:b369c72d14c0ddcc8c92f24e@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261128T173000Z
 SUMMARY:DANCE LIKE NOBODYS WATCHING (Einlass\; Beginn offen)
 DESCRIPTION:Mix aus allen Genres (außer Schlager!) mit DJ Robert Pointner\
@@ -315,7 +300,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:f75d13f6275484b4f76b0d2c@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261129T180000Z
 SUMMARY:INDIE MUNICH SHOWCASE SESSION
 DESCRIPTION:3-Year Anniversary Special With Felsongwriter\, Diana Hübel an
@@ -327,7 +312,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:083b2585318361e3e218ed8a@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261130T183000Z
 SUMMARY:STELLA STEGMANN
 DESCRIPTION:FEMALE REAL(ITY) TALK – Lesung trifft auf Real Talk. München
@@ -346,7 +331,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:8c2ba0aaca9802a9593859b8@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20261202T190000Z
 SUMMARY:SUBSTANZIELLES PUB-QUIZ
 DESCRIPTION:4 Runden\, 40 Fragen und heiße Preise zu gewinnen! Host: Natan
@@ -364,7 +349,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:55d1254a5c3964f7b9d8d23e@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20270221T190000Z
 SUMMARY:JULIA BRANDNER
 DESCRIPTION:Stand-Up Comedy Calm your Tits – Tour 2027\nBeginn: 20:00\nEi
@@ -381,7 +366,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:32ae2a08434255c4205fdd3f@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20270314T190000Z
 SUMMARY:MWITA MATARO
 DESCRIPTION:Konzert Austrodrama – Tour\nBeginn: 20:00\nEinlass: 19:00\nOf
@@ -398,7 +383,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cc6ec375fa031d3ba77f900a@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20270315T190000Z
 SUMMARY:ROBIN VEHRS LIEST SCHLORPFIAN
 DESCRIPTION:Live-Tour\nBeginn: 20:00\nEinlass: 19:00\nOffizielle Quelle: ht
@@ -415,7 +400,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:e9b7362879544a2641ba71a9@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20270411T180000Z
 SUMMARY:AKRYL
 DESCRIPTION:Konzert Blanke Knoch glänzen nicht – Tour\nBeginn: 20:00\nEi
@@ -425,7 +410,7 @@ URL:https://substanz-club.com/alle-events
 END:VEVENT
 BEGIN:VEVENT
 UID:3c61c0083d8469e129c98891@substanz-events
-DTSTAMP:20261106T060601Z
+DTSTAMP:20261107T055435Z
 DTSTART:20270419T180000Z
 SUMMARY:KATLIX
 DESCRIPTION:Konzert 9 2 5 Tour\nBeginn: 20:00\nEinlass: 19:00\nOffizielle Q

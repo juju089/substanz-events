@@ -1,18 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-06T06:06:01Z",
+  "updatedAt": "2026-11-07T05:54:35Z",
   "events": [
-    {
-      "id": "cd8607b27460823c54879a53@substanz-events",
-      "date": "2026-11-05",
-      "title": "KARAOKE PARTY",
-      "description": "Host Elizaveta stimmt ein und dann gehört die Bühne euch! Und davor gibt es als Warmup unsere Happy Hour „Spritz before Hits“",
-      "start": "21:00",
-      "doors": "18:30",
-      "category": "Karaoke",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-05",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "29efeb58e81d5a1b7c3e994f@substanz-events",
       "date": "2026-11-06",
@@ -50,7 +39,7 @@
       "id": "2dd440f6eb1f05133227c203@substanz-events",
       "date": "2026-11-10",
       "title": "MUNICH MUSIC QUIZ",
-      "description": "Happy quizzing! Fortnightly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
       "start": "19:30",
       "doors": "18:30",
       "category": "Quiz",
@@ -127,7 +116,7 @@
       "id": "ae6f0244e2d99d729d0b87ad@substanz-events",
       "date": "2026-11-17",
       "title": "MUNICH MUSIC QUIZ",
-      "description": "Happy quizzing! Fortnightly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
       "start": "19:30",
       "doors": "18:30",
       "category": "Quiz",
@@ -182,7 +171,7 @@
       "id": "aabe34e441b335c4eb3b9547@substanz-events",
       "date": "2026-11-24",
       "title": "MUNICH MUSIC QUIZ",
-      "description": "Happy quizzing! Fortnightly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
       "start": "19:30",
       "doors": "18:30",
       "category": "Quiz",
