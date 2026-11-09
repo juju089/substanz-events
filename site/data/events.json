@@ -1,29 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-08T05:55:49Z",
+  "updatedAt": "2026-11-09T06:17:02Z",
   "events": [
-    {
-      "id": "29efeb58e81d5a1b7c3e994f@substanz-events",
-      "date": "2026-11-06",
-      "title": "SEASIDE",
-      "description": "Der substanzielle Indie-Freitag DJ Phillinger",
-      "start": null,
-      "doors": "18:30",
-      "category": "Party",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-06",
-      "source": "https://substanz-club.com/alle-events"
-    },
-    {
-      "id": "23d6656cbf8c9d6f6044c1e3@substanz-events",
-      "date": "2026-11-07",
-      "title": "MOVE ON UP",
-      "description": "Das Beste an Funk & Soul DJ Don Schmocko",
-      "start": null,
-      "doors": "18:30",
-      "category": "Party",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-07",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "2069fe8aeee2c02b2346176b@substanz-events",
       "date": "2026-11-08",
@@ -32,7 +10,7 @@
       "start": "19:00",
       "doors": "18:00",
       "category": "Comedy",
-      "ticket": null,
+      "ticket": "https://www.kontramarka.de/de/tour/artur-chaparyan/category/2521/14313/",
       "source": "https://substanz-club.com/alle-events"
     },
     {
@@ -176,6 +154,17 @@
       "doors": "18:30",
       "category": "Quiz",
       "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-24",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "1109e87400f607da8b3bef85@substanz-events",
+      "date": "2026-11-25",
+      "title": "KART'N KOLA",
+      "description": "liefert euch ein einzigartiges Kart-Turnier auf der Konsole mit Liveband und tollen Preisen von fritz-kola",
+      "start": "20:00",
+      "doors": "18:30",
+      "category": "Sonstiges",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-25",
       "source": "https://substanz-club.com/alle-events"
     },
     {
