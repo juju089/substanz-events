@@ -1,18 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-11T06:07:16Z",
+  "updatedAt": "2026-11-12T06:11:16Z",
   "events": [
-    {
-      "id": "2dd440f6eb1f05133227c203@substanz-events",
-      "date": "2026-11-10",
-      "title": "MUNICH MUSIC QUIZ",
-      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
-      "start": "19:30",
-      "doors": "18:30",
-      "category": "Quiz",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-10",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "cb4a1a5b78c96ddcd3925a44@substanz-events",
       "date": "2026-11-11",
