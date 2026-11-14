@@ -1,18 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-13T06:08:32Z",
+  "updatedAt": "2026-11-14T05:56:59Z",
   "events": [
-    {
-      "id": "8a6b9935f4609bcb2b8574d9@substanz-events",
-      "date": "2026-11-12",
-      "title": "KARAOKE PARTY",
-      "description": "Host Elizaveta stimmt ein und dann gehört die Bühne euch! Und davor gibt es als Warmup unsere Happy Hour „Spritz before Hits“",
-      "start": "21:00",
-      "doors": "18:30",
-      "category": "Karaoke",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-12",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "819ff3de66de98d17bcf920d@substanz-events",
       "date": "2026-11-13",
@@ -124,12 +113,12 @@
       "source": "https://substanz-club.com/alle-events"
     },
     {
-      "id": "1109e87400f607da8b3bef85@substanz-events",
+      "id": "0ab19a3d729afcb772f43040@substanz-events",
       "date": "2026-11-25",
-      "title": "KART'N KOLA",
+      "title": "KART'N' KOLA",
       "description": "liefert euch ein einzigartiges Kart-Turnier auf der Konsole mit Liveband und tollen Preisen von fritz-kola",
-      "start": "20:00",
-      "doors": "18:30",
+      "start": "19:00",
+      "doors": "18:00",
       "category": "Sonstiges",
       "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-25",
       "source": "https://substanz-club.com/alle-events"
