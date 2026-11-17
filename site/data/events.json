@@ -1,29 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-16T06:27:30Z",
+  "updatedAt": "2026-11-17T06:08:40Z",
   "events": [
-    {
-      "id": "aaa52cf60bcad6f5bd6f4622@substanz-events",
-      "date": "2026-11-14",
-      "title": "90S DAMPFER",
-      "description": "Die besten Party-Hymnen der 90er mit DJ Max Wild",
-      "start": null,
-      "doors": "18:30",
-      "category": "Party",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-14",
-      "source": "https://substanz-club.com/alle-events"
-    },
-    {
-      "id": "104286a39729340855f1098d@substanz-events",
-      "date": "2026-11-15",
-      "title": "ALPENFILM FESTIVAL",
-      "description": "Die besten Bergfilme des Jahres, darunter auch der preisgekrönte „Nanga Parbat“ mit Extrembergsteiger David Göttler live vor Ort",
-      "start": "20:00",
-      "doors": "19:00",
-      "category": "Film",
-      "ticket": "https://tickets.muenchenticket.de/shop?hiqp=$_hqpbFBrZGFINU9BU2JBTUpLQ3BPQVBmWDd5b0lVbWd6SmwrNk9NZ3FUNFlFNExOSEdHQTZyaXdFdHpQdzVXbnB0Z2taVXU0Tyt2Tjd4c2d6VVAvVDRnWWF2SmJZcFNwc0tmVEJrS2ozdVpabER1V2hOQXFKWXpMNTRYLzE4NGRzeFQ0bHZMeUF3VVJMY2lZOGpKYmszdTVQL050dzhqaHQvNGVSVXc0c1JhQVVVaDdRaEwwSnJxWVdOU0htdWQ2STlPcDU1a2FCdmt6emZkL0ZYMkgwdk9CN1Z0akgwM2NQVU1aUTJQdjBnZ09FZ2Z4V3E5ako3cGUrT0VmM0szWmlZa25OeEtOVEFuUmw1SHBYMEUxM1JqOEtWTUt5QW96eHVoMkNtQVF2bDJodm9vWGw3endsa2VPSGN6Y1pkRjl4b2F1MThSQW0yUGM1VT0=",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "fc1f2a90ec144c4893b1d855@substanz-events",
       "date": "2026-11-16",
@@ -168,6 +146,17 @@
       "source": "https://substanz-club.com/alle-events"
     },
     {
+      "id": "cfe3f7063065d7914cdf653f@substanz-events",
+      "date": "2026-12-01",
+      "title": "MUNICH MUSIC QUIZ",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "start": "19:30",
+      "doors": "18:30",
+      "category": "Quiz",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-01",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
       "id": "8c2ba0aaca9802a9593859b8@substanz-events",
       "date": "2026-12-02",
       "title": "SUBSTANZIELLES PUB-QUIZ",
@@ -176,6 +165,160 @@
       "doors": "18:30",
       "category": "Quiz",
       "ticket": "https://tickets.muenchenticket.de/shop?hiqp=$_hqpbFBrZGFINU9BU2JBTUpLQ3BPQVBmWDd5b0lVbWd6SmwrNk9NZ3FUNFlFNExOSEdHQTZyaXdFdHpQdzVXbnB0Z2taVXU0Tyt2Tjd4c2d6VVAvVDRnWWF2SmJZcFNwc0tmVEJrS2ozdVpabER1V2hOQXFKWXpMNTRYLzE4NGRzeFQ0bHZMeUF3VVJMY2lZOGpKYmszdTVQL050dzhqaHQvNGVSVXc0c1JhQVVVaDdRaEwwSnJxWVdOU0htdWQ2STlPcDU1a2FCdmt6emZkL0ZYMkgwdk9CN1Z0akgwM2NQVU1aUTJQdjBnZ09FZ2Z4V3E5ako3cGUrT0VmM0szWmlZa25OeEtOVEFrUWxWQXBYMEUxM1JqOEtWTUt5QW96eHVoMkNtQVF2bDJodm9vWGw3endsa2VPSGN6Y1pkRjl4b2F1MThSQW0yUGM1VT0=",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "a946b0fb6ee09abc2d8c5899@substanz-events",
+      "date": "2026-12-03",
+      "title": "KARAOKE PARTY",
+      "description": "Host Elizaveta stimmt ein und dann gehört die Bühne euch! Und davor gibt es als Warmup unsere Happy Hour „Spritz before Hits“",
+      "start": "21:00",
+      "doors": "18:30",
+      "category": "Karaoke",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-03",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "337e6ea253f1e6710c0a01f9@substanz-events",
+      "date": "2026-12-04",
+      "title": "HITS TO HEAD",
+      "description": "Bestes Indie-tainment mit DJ Tom Yorba",
+      "start": null,
+      "doors": "18:30",
+      "category": "Party",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-04",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "3ecdf329a383602e286a396a@substanz-events",
+      "date": "2026-12-05",
+      "title": "DANCE ON DECK",
+      "description": "Soul, Disco Funk & Hip-Hop mit DJ کش (kesch) & Phizzle",
+      "start": null,
+      "doors": "18:30",
+      "category": "Party",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-05",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "069fb66e392cb9f771300998@substanz-events",
+      "date": "2026-12-07",
+      "title": "MUNICH MUSIC QUIZ",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "start": "19:30",
+      "doors": "18:30",
+      "category": "Quiz",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-07",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "a31f29a78124bbe9dcd22048@substanz-events",
+      "date": "2026-12-09",
+      "title": "SUBSTANZIELLES FRITZ KOLA BINGO",
+      "description": "Schnapszahlen, eine nostalgische Bingomaschine und ganz viel Glück Host: Sandra",
+      "start": "20:00",
+      "doors": "18:30",
+      "category": "Bingo",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-09",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "d4858fd6d7c4ac22d6c65f40@substanz-events",
+      "date": "2026-12-11",
+      "title": "CHAMPAGNE SUPERNOVA",
+      "description": "Indie-Hits mit DJ Armin Linder",
+      "start": null,
+      "doors": "18:30",
+      "category": "Party",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-11",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "785bfaa086b8acca2baff086@substanz-events",
+      "date": "2026-12-12",
+      "title": "TIME 4 SOME ACTION",
+      "description": "Hiphop, Funk & Breaks mit Rawnfunkie und den Vorstadtrockers",
+      "start": null,
+      "doors": "18:30",
+      "category": "Sonstiges",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-12",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "03dd4242fa8cc3a28de00349@substanz-events",
+      "date": "2026-12-15",
+      "title": "MUNICH MUSIC QUIZ",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "start": "19:30",
+      "doors": "18:30",
+      "category": "Quiz",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-15",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "f3abf87284541f1c6d0fb9d8@substanz-events",
+      "date": "2026-12-17",
+      "title": "KARAOKE PARTY",
+      "description": "Host Elizaveta stimmt ein und dann gehört die Bühne euch! Und davor gibt es als Warmup unsere Happy Hour „Spritz before Hits“",
+      "start": "21:00",
+      "doors": "18:30",
+      "category": "Karaoke",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-17",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "f4e89f020a7a17c1b9938f34@substanz-events",
+      "date": "2026-12-18",
+      "title": "INDIE FRIDAY",
+      "description": "Der substanzielle Indie-Freitag mit wechselnden DJs",
+      "start": null,
+      "doors": "18:30",
+      "category": "Sonstiges",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-18",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "eae102d15096b1adabf8b103@substanz-events",
+      "date": "2026-12-19",
+      "title": "MOVE ON UP",
+      "description": "Funk & Soul mit DJ Don Schmocko",
+      "start": null,
+      "doors": "18:30",
+      "category": "Party",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-19",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "69fa766acf5217b921966cbe@substanz-events",
+      "date": "2026-12-22",
+      "title": "MUNICH MUSIC QUIZ",
+      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
+      "start": "19:30",
+      "doors": "18:30",
+      "category": "Quiz",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-22",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "5b57c5b48ada314374b658d5@substanz-events",
+      "date": "2026-12-23",
+      "title": "WEIHNACHTLICHES FRITZ KOLA BINGO",
+      "description": "Schnapszahlen, eine nostalgische Bingomaschine und ganz viel Glück Host: Pegah",
+      "start": "20:00",
+      "doors": "18:30",
+      "category": "Bingo",
+      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-12-23",
+      "source": "https://substanz-club.com/alle-events"
+    },
+    {
+      "id": "4f3ad6997d66437ec6122544@substanz-events",
+      "date": "2026-12-30",
+      "title": "PORNO KARAOKE",
+      "description": "Retro-Pornos von euch synchronisiert. It’s your right to be horny! Hosts: John Porno & Elizaveta",
+      "start": "20:00",
+      "doors": "18:30",
+      "category": "Karaoke",
+      "ticket": "https://tickets.muenchenticket.de/shop?hiqp=$_hqpbFBrZGFINU9BU2JBTUpLQ3BPQVBmWDd5b0lVbWd6SmwrNk9NZ3FUNFlFNExOSEdHQTZyaXdFdHpQdzVXbnB0Z2taVXU0Tyt2Tjd4c2d6VVAvVDRnWWF2SmJZcFNwc0tmVEJrS2ozdVpabER1V2hOQXFKWXpMNTRYLzE4NGRzeFQ0bHZMeUF3VVJMY2lZOGpKYmszdTVQL050dzhqaHQvNGVSVXc0c1JhQVVVaDdRaEwwSnJxWVdOU0htdWQ2STlPcDU1a2FCdmt6emZkL0ZYMkgwdk9CN1Z0akgwM2NQVU1aUTJQdjBnZ09FZ2Z4V3E5ako3cGUrT0VmM0szWmlZa25OeEtOVEFrUWxWRHBYMEUxM1JqOEtWTUt5QW96eHVoMkNtQVF2bDJodm9vWGw3endsa2VPSGN6Y1pkRjl4b2F1MThSQW0yUGM1VT0=",
       "source": "https://substanz-club.com/alle-events"
     },
     {
