@@ -1,29 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-19T06:11:25Z",
+  "updatedAt": "2026-11-20T06:14:35Z",
   "events": [
-    {
-      "id": "ae6f0244e2d99d729d0b87ad@substanz-events",
-      "date": "2026-11-17",
-      "title": "MUNICH MUSIC QUIZ",
-      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
-      "start": "19:30",
-      "doors": "18:30",
-      "category": "Quiz",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-17",
-      "source": "https://substanz-club.com/alle-events"
-    },
-    {
-      "id": "a53e557823444d14d6467931@substanz-events",
-      "date": "2026-11-18",
-      "title": "SUBSTANZIELLES FRITZ KOLA BINGO",
-      "description": "Schnapszahlen, eine nostalgische Bingomaschine und ganz viel Glück Host: Sandra",
-      "start": "20:00",
-      "doors": "18:30",
-      "category": "Bingo",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-18",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "52bd813d6d27cc2c17f503de@substanz-events",
       "date": "2026-11-20",
@@ -190,9 +168,9 @@
       "source": "https://substanz-club.com/alle-events"
     },
     {
-      "id": "069fb66e392cb9f771300998@substanz-events",
+      "id": "e2e9ad650605bc5cdde7a345@substanz-events",
       "date": "2026-12-07",
-      "title": "MUNICH MUSIC QUIZ",
+      "title": "MUNICH MUSIC QUIZ - METAL SPECIAL",
       "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
       "start": "19:30",
       "doors": "18:30",
