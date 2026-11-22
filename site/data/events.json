@@ -1,18 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-21T06:02:06Z",
+  "updatedAt": "2026-11-22T06:04:09Z",
   "events": [
-    {
-      "id": "52bd813d6d27cc2c17f503de@substanz-events",
-      "date": "2026-11-20",
-      "title": "JUST LIKE HEAVEN",
-      "description": "Indie-Pop through the Decades! Classics, Kennerkram & New Hot Shit Mit DJ Henning Furbach",
-      "start": null,
-      "doors": "18:30",
-      "category": "Party",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-20",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "3cc349c6de8dc1b4f2231185@substanz-events",
       "date": "2026-11-21",
