@@ -1,40 +1,7 @@
 {
   "source": "https://substanz-club.com/alle-events",
-  "updatedAt": "2026-11-26T06:06:54Z",
+  "updatedAt": "2026-11-27T06:10:48Z",
   "events": [
-    {
-      "id": "a6333e53343141e7162c6888@substanz-events",
-      "date": "2026-11-23",
-      "title": "NOVA ROCK PUB QUIZ",
-      "description": "Das Nova Rock Festival geht auf Pubquiz-Tour & es gibt tolle Preise abzustauben! ( mehr Infos )",
-      "start": "19:30",
-      "doors": "18:30",
-      "category": "Quiz",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-23",
-      "source": "https://substanz-club.com/alle-events"
-    },
-    {
-      "id": "aabe34e441b335c4eb3b9547@substanz-events",
-      "date": "2026-11-24",
-      "title": "MUNICH MUSIC QUIZ",
-      "description": "Happy quizzing! Weekly music quiz hosted in German and English. Guess songs, get drinks, have fun!",
-      "start": "19:30",
-      "doors": "18:30",
-      "category": "Quiz",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-24",
-      "source": "https://substanz-club.com/alle-events"
-    },
-    {
-      "id": "0ab19a3d729afcb772f43040@substanz-events",
-      "date": "2026-11-25",
-      "title": "KART'N' KOLA",
-      "description": "liefert euch ein einzigartiges Kart-Turnier auf der Konsole mit Liveband und tollen Preisen von fritz-kola",
-      "start": "19:00",
-      "doors": "18:00",
-      "category": "Sonstiges",
-      "ticket": "https://app.resmio.com/substanz/widget?fullscreen=true&backgroundColor=%23555555&color=%23ffffff&commentsDisabled=false&facebookLogin=true&fontSize=18px&height=400&linkBackgroundColor=%2307a7c4&newsletterSignup=true&width=400&nextAvailability=2026-11-25",
-      "source": "https://substanz-club.com/alle-events"
-    },
     {
       "id": "b572b47cf56749efda272fdf@substanz-events",
       "date": "2026-11-26",
